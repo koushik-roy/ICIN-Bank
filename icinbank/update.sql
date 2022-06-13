@@ -1,0 +1,1 @@
+UPDATE bootdb.user_role SET user_role.role_id=1 where user_role.user_id in (select user_id from bootdb.user where email='gk_deb1@yahoo.com');
