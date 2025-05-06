@@ -28,7 +28,7 @@ This is a full-stack banking application built with **Spring Boot**, **Thymeleaf
 | Web Layer     | Spring MVC + Thymeleaf |
 | Database      | MySQL + JPA/Hibernate  |
 | Security      | Spring Security        |
-| Testing       | JUnit 5 + Selenium     |
+| Testing       | JUnit 5                |
 
 
 
